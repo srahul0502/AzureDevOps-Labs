@@ -24,7 +24,7 @@ Real-world scenarios where you apply your knowledge without detailed guidance. T
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/AzureDevOps-Labs.git
+    git clone https://github.com/AzureDevOpsLabs.git
     ```
 
 2. Navigate to the desired lab folder.
